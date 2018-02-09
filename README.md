@@ -1,4 +1,4 @@
-# stationery-delivery
+# Stationery-delivery
 Calculating the rerun and mileage 
 
 
@@ -16,3 +16,5 @@ Calculating the rerun and mileage
 5.	Extra fuel spent while transporting the goods
 ## Flowchart
  ![](flowchart.PNG)
+## UML
+ ![](uml.PNG)
