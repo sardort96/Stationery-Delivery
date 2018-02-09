@@ -14,3 +14,5 @@ Calculating the rerun and mileage
 3.	Mileage
 4.	Rerun
 5.	Extra fuel spent while transporting the goods
+## Flowchart
+ ![](flowchart.PNG)
